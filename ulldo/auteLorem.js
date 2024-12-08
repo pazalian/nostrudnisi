@@ -1,0 +1,1 @@
+mainButton.setParams({ text: val });
